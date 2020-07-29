@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavigationTest</string>
+    <string name="title_home">Home of Dialog</string>
+    <string name="title_home_dialog">The Dialog</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_dashboard_detail">Detail</string>
+    <string name="title_notifications">Root of Nested Graphs</string>
+    <string name="title_nested_graph">Nested Graph Root</string>
+    <string name="title_nested_graph2">Second nested</string>
+
+
+</resources>
